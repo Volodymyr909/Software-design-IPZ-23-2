@@ -1,0 +1,15 @@
+C:\Users\notebook778\Desktop\Політєх 2 курс 2 семестр\КПЗ\Lab_3\Lab_3\Composer\bin\Debug\net8.0\Composer.exe
+C:\Users\notebook778\Desktop\Політєх 2 курс 2 семестр\КПЗ\Lab_3\Lab_3\Composer\bin\Debug\net8.0\Composer.deps.json
+C:\Users\notebook778\Desktop\Політєх 2 курс 2 семестр\КПЗ\Lab_3\Lab_3\Composer\bin\Debug\net8.0\Composer.runtimeconfig.json
+C:\Users\notebook778\Desktop\Політєх 2 курс 2 семестр\КПЗ\Lab_3\Lab_3\Composer\bin\Debug\net8.0\Composer.dll
+C:\Users\notebook778\Desktop\Політєх 2 курс 2 семестр\КПЗ\Lab_3\Lab_3\Composer\bin\Debug\net8.0\Composer.pdb
+C:\Users\notebook778\Desktop\Політєх 2 курс 2 семестр\КПЗ\Lab_3\Lab_3\Composer\obj\Debug\net8.0\Composer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\notebook778\Desktop\Політєх 2 курс 2 семестр\КПЗ\Lab_3\Lab_3\Composer\obj\Debug\net8.0\Composer.AssemblyInfoInputs.cache
+C:\Users\notebook778\Desktop\Політєх 2 курс 2 семестр\КПЗ\Lab_3\Lab_3\Composer\obj\Debug\net8.0\Composer.AssemblyInfo.cs
+C:\Users\notebook778\Desktop\Політєх 2 курс 2 семестр\КПЗ\Lab_3\Lab_3\Composer\obj\Debug\net8.0\Composer.csproj.CoreCompileInputs.cache
+C:\Users\notebook778\Desktop\Політєх 2 курс 2 семестр\КПЗ\Lab_3\Lab_3\Composer\obj\Debug\net8.0\Composer.sourcelink.json
+C:\Users\notebook778\Desktop\Політєх 2 курс 2 семестр\КПЗ\Lab_3\Lab_3\Composer\obj\Debug\net8.0\Composer.dll
+C:\Users\notebook778\Desktop\Політєх 2 курс 2 семестр\КПЗ\Lab_3\Lab_3\Composer\obj\Debug\net8.0\refint\Composer.dll
+C:\Users\notebook778\Desktop\Політєх 2 курс 2 семестр\КПЗ\Lab_3\Lab_3\Composer\obj\Debug\net8.0\Composer.pdb
+C:\Users\notebook778\Desktop\Політєх 2 курс 2 семестр\КПЗ\Lab_3\Lab_3\Composer\obj\Debug\net8.0\Composer.genruntimeconfig.cache
+C:\Users\notebook778\Desktop\Політєх 2 курс 2 семестр\КПЗ\Lab_3\Lab_3\Composer\obj\Debug\net8.0\ref\Composer.dll

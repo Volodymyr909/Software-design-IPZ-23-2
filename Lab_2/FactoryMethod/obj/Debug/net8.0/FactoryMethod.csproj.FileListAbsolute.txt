@@ -1,0 +1,15 @@
+C:\Users\notebook778\Desktop\Політєх 2 курс 2 семестр\КПЗ\Lab_2\Task_2\Lab_2\FactoryMethod\bin\Debug\net8.0\FactoryMethod.exe
+C:\Users\notebook778\Desktop\Політєх 2 курс 2 семестр\КПЗ\Lab_2\Task_2\Lab_2\FactoryMethod\bin\Debug\net8.0\FactoryMethod.deps.json
+C:\Users\notebook778\Desktop\Політєх 2 курс 2 семестр\КПЗ\Lab_2\Task_2\Lab_2\FactoryMethod\bin\Debug\net8.0\FactoryMethod.runtimeconfig.json
+C:\Users\notebook778\Desktop\Політєх 2 курс 2 семестр\КПЗ\Lab_2\Task_2\Lab_2\FactoryMethod\bin\Debug\net8.0\FactoryMethod.dll
+C:\Users\notebook778\Desktop\Політєх 2 курс 2 семестр\КПЗ\Lab_2\Task_2\Lab_2\FactoryMethod\bin\Debug\net8.0\FactoryMethod.pdb
+C:\Users\notebook778\Desktop\Політєх 2 курс 2 семестр\КПЗ\Lab_2\Task_2\Lab_2\FactoryMethod\obj\Debug\net8.0\FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\notebook778\Desktop\Політєх 2 курс 2 семестр\КПЗ\Lab_2\Task_2\Lab_2\FactoryMethod\obj\Debug\net8.0\FactoryMethod.AssemblyInfoInputs.cache
+C:\Users\notebook778\Desktop\Політєх 2 курс 2 семестр\КПЗ\Lab_2\Task_2\Lab_2\FactoryMethod\obj\Debug\net8.0\FactoryMethod.AssemblyInfo.cs
+C:\Users\notebook778\Desktop\Політєх 2 курс 2 семестр\КПЗ\Lab_2\Task_2\Lab_2\FactoryMethod\obj\Debug\net8.0\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\notebook778\Desktop\Політєх 2 курс 2 семестр\КПЗ\Lab_2\Task_2\Lab_2\FactoryMethod\obj\Debug\net8.0\FactoryMethod.sourcelink.json
+C:\Users\notebook778\Desktop\Політєх 2 курс 2 семестр\КПЗ\Lab_2\Task_2\Lab_2\FactoryMethod\obj\Debug\net8.0\FactoryMethod.dll
+C:\Users\notebook778\Desktop\Політєх 2 курс 2 семестр\КПЗ\Lab_2\Task_2\Lab_2\FactoryMethod\obj\Debug\net8.0\refint\FactoryMethod.dll
+C:\Users\notebook778\Desktop\Політєх 2 курс 2 семестр\КПЗ\Lab_2\Task_2\Lab_2\FactoryMethod\obj\Debug\net8.0\FactoryMethod.pdb
+C:\Users\notebook778\Desktop\Політєх 2 курс 2 семестр\КПЗ\Lab_2\Task_2\Lab_2\FactoryMethod\obj\Debug\net8.0\FactoryMethod.genruntimeconfig.cache
+C:\Users\notebook778\Desktop\Політєх 2 курс 2 семестр\КПЗ\Lab_2\Task_2\Lab_2\FactoryMethod\obj\Debug\net8.0\ref\FactoryMethod.dll

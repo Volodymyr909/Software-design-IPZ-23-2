@@ -1,0 +1,2 @@
+This is a restricted text file.
+Access is limited.

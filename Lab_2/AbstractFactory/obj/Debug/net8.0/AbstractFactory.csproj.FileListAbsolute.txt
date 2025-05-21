@@ -1,0 +1,15 @@
+C:\Users\notebook778\Desktop\Політєх 2 курс 2 семестр\КПЗ\Lab_2\Task_2\Lab_2\AbstractFactory\bin\Debug\net8.0\AbstractFactory.exe
+C:\Users\notebook778\Desktop\Політєх 2 курс 2 семестр\КПЗ\Lab_2\Task_2\Lab_2\AbstractFactory\bin\Debug\net8.0\AbstractFactory.deps.json
+C:\Users\notebook778\Desktop\Політєх 2 курс 2 семестр\КПЗ\Lab_2\Task_2\Lab_2\AbstractFactory\bin\Debug\net8.0\AbstractFactory.runtimeconfig.json
+C:\Users\notebook778\Desktop\Політєх 2 курс 2 семестр\КПЗ\Lab_2\Task_2\Lab_2\AbstractFactory\bin\Debug\net8.0\AbstractFactory.dll
+C:\Users\notebook778\Desktop\Політєх 2 курс 2 семестр\КПЗ\Lab_2\Task_2\Lab_2\AbstractFactory\bin\Debug\net8.0\AbstractFactory.pdb
+C:\Users\notebook778\Desktop\Політєх 2 курс 2 семестр\КПЗ\Lab_2\Task_2\Lab_2\AbstractFactory\obj\Debug\net8.0\AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\notebook778\Desktop\Політєх 2 курс 2 семестр\КПЗ\Lab_2\Task_2\Lab_2\AbstractFactory\obj\Debug\net8.0\AbstractFactory.AssemblyInfoInputs.cache
+C:\Users\notebook778\Desktop\Політєх 2 курс 2 семестр\КПЗ\Lab_2\Task_2\Lab_2\AbstractFactory\obj\Debug\net8.0\AbstractFactory.AssemblyInfo.cs
+C:\Users\notebook778\Desktop\Політєх 2 курс 2 семестр\КПЗ\Lab_2\Task_2\Lab_2\AbstractFactory\obj\Debug\net8.0\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\notebook778\Desktop\Політєх 2 курс 2 семестр\КПЗ\Lab_2\Task_2\Lab_2\AbstractFactory\obj\Debug\net8.0\AbstractFactory.sourcelink.json
+C:\Users\notebook778\Desktop\Політєх 2 курс 2 семестр\КПЗ\Lab_2\Task_2\Lab_2\AbstractFactory\obj\Debug\net8.0\AbstractFactory.dll
+C:\Users\notebook778\Desktop\Політєх 2 курс 2 семестр\КПЗ\Lab_2\Task_2\Lab_2\AbstractFactory\obj\Debug\net8.0\refint\AbstractFactory.dll
+C:\Users\notebook778\Desktop\Політєх 2 курс 2 семестр\КПЗ\Lab_2\Task_2\Lab_2\AbstractFactory\obj\Debug\net8.0\AbstractFactory.pdb
+C:\Users\notebook778\Desktop\Політєх 2 курс 2 семестр\КПЗ\Lab_2\Task_2\Lab_2\AbstractFactory\obj\Debug\net8.0\AbstractFactory.genruntimeconfig.cache
+C:\Users\notebook778\Desktop\Політєх 2 курс 2 семестр\КПЗ\Lab_2\Task_2\Lab_2\AbstractFactory\obj\Debug\net8.0\ref\AbstractFactory.dll

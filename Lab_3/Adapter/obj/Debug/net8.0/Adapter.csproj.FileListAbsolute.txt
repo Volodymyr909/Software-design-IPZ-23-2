@@ -1,0 +1,15 @@
+C:\Users\notebook778\Desktop\Політєх 2 курс 2 семестр\КПЗ\Lab_3\Lab_3\Adapter\bin\Debug\net8.0\Adapter.exe
+C:\Users\notebook778\Desktop\Політєх 2 курс 2 семестр\КПЗ\Lab_3\Lab_3\Adapter\bin\Debug\net8.0\Adapter.deps.json
+C:\Users\notebook778\Desktop\Політєх 2 курс 2 семестр\КПЗ\Lab_3\Lab_3\Adapter\bin\Debug\net8.0\Adapter.runtimeconfig.json
+C:\Users\notebook778\Desktop\Політєх 2 курс 2 семестр\КПЗ\Lab_3\Lab_3\Adapter\bin\Debug\net8.0\Adapter.dll
+C:\Users\notebook778\Desktop\Політєх 2 курс 2 семестр\КПЗ\Lab_3\Lab_3\Adapter\bin\Debug\net8.0\Adapter.pdb
+C:\Users\notebook778\Desktop\Політєх 2 курс 2 семестр\КПЗ\Lab_3\Lab_3\Adapter\obj\Debug\net8.0\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\notebook778\Desktop\Політєх 2 курс 2 семестр\КПЗ\Lab_3\Lab_3\Adapter\obj\Debug\net8.0\Adapter.AssemblyInfoInputs.cache
+C:\Users\notebook778\Desktop\Політєх 2 курс 2 семестр\КПЗ\Lab_3\Lab_3\Adapter\obj\Debug\net8.0\Adapter.AssemblyInfo.cs
+C:\Users\notebook778\Desktop\Політєх 2 курс 2 семестр\КПЗ\Lab_3\Lab_3\Adapter\obj\Debug\net8.0\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\notebook778\Desktop\Політєх 2 курс 2 семестр\КПЗ\Lab_3\Lab_3\Adapter\obj\Debug\net8.0\Adapter.sourcelink.json
+C:\Users\notebook778\Desktop\Політєх 2 курс 2 семестр\КПЗ\Lab_3\Lab_3\Adapter\obj\Debug\net8.0\Adapter.dll
+C:\Users\notebook778\Desktop\Політєх 2 курс 2 семестр\КПЗ\Lab_3\Lab_3\Adapter\obj\Debug\net8.0\refint\Adapter.dll
+C:\Users\notebook778\Desktop\Політєх 2 курс 2 семестр\КПЗ\Lab_3\Lab_3\Adapter\obj\Debug\net8.0\Adapter.pdb
+C:\Users\notebook778\Desktop\Політєх 2 курс 2 семестр\КПЗ\Lab_3\Lab_3\Adapter\obj\Debug\net8.0\Adapter.genruntimeconfig.cache
+C:\Users\notebook778\Desktop\Політєх 2 курс 2 семестр\КПЗ\Lab_3\Lab_3\Adapter\obj\Debug\net8.0\ref\Adapter.dll

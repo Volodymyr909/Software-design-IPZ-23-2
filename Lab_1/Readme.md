@@ -1,7 +1,7 @@
 # Lab 1
 
 ## Code Test Result from [Main Method](ConsoleApp/Program.cs#L3-L36)
-![Test Result](https://github.com/volodymyr909/Software design/Lab1/Result.png)
+![Test Result](https://github.com/Volodymyr909/Software-design-IPZ-23-2/blob/df83a79380de8b0380ce6bcf284300cc1a9b7261/Lab_1/Diagram.png)
 
 ## Description of the Code
 

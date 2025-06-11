@@ -13,3 +13,17 @@ C:\Users\notebook778\Desktop\Політєх 2 курс 2 семестр\КПЗ\L
 C:\Users\notebook778\Desktop\Політєх 2 курс 2 семестр\КПЗ\Lab_3\Lab_3\Composer\obj\Debug\net8.0\Composer.pdb
 C:\Users\notebook778\Desktop\Політєх 2 курс 2 семестр\КПЗ\Lab_3\Lab_3\Composer\obj\Debug\net8.0\Composer.genruntimeconfig.cache
 C:\Users\notebook778\Desktop\Політєх 2 курс 2 семестр\КПЗ\Lab_3\Lab_3\Composer\obj\Debug\net8.0\ref\Composer.dll
+D:\Lab_3\Composer\bin\Debug\net8.0\Composer.exe
+D:\Lab_3\Composer\bin\Debug\net8.0\Composer.deps.json
+D:\Lab_3\Composer\bin\Debug\net8.0\Composer.runtimeconfig.json
+D:\Lab_3\Composer\bin\Debug\net8.0\Composer.dll
+D:\Lab_3\Composer\bin\Debug\net8.0\Composer.pdb
+D:\Lab_3\Composer\obj\Debug\net8.0\Composer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lab_3\Composer\obj\Debug\net8.0\Composer.AssemblyInfoInputs.cache
+D:\Lab_3\Composer\obj\Debug\net8.0\Composer.AssemblyInfo.cs
+D:\Lab_3\Composer\obj\Debug\net8.0\Composer.csproj.CoreCompileInputs.cache
+D:\Lab_3\Composer\obj\Debug\net8.0\Composer.dll
+D:\Lab_3\Composer\obj\Debug\net8.0\refint\Composer.dll
+D:\Lab_3\Composer\obj\Debug\net8.0\Composer.pdb
+D:\Lab_3\Composer\obj\Debug\net8.0\Composer.genruntimeconfig.cache
+D:\Lab_3\Composer\obj\Debug\net8.0\ref\Composer.dll

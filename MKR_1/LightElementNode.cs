@@ -1,4 +1,5 @@
-﻿using System;
+﻿using MKR1;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,10 +7,6 @@ using System.Threading.Tasks;
 
 namespace Composer
 {
-    using System;
-    using System.Collections.Generic;
-    using System.Text;
-
     public class LightElementNode : LightNode
     {
         public string TagName { get; }
@@ -37,18 +34,58 @@ namespace Composer
             CssClasses.Add(cssClass);
         }
 
+        public IEnumerable<LightNode> TraverseDepthFirst()
+        {
+            using (var iterator = new DepthFirstIterator(this))
+            {
+                while (iterator.MoveNext())
+                {
+                    yield return iterator.Current;
+                }
+            }
+        }
+
+        public IEnumerable<LightNode> TraverseBreadthFirst()
+        {
+            using (var iterator = new BreadthFirstIterator(this))
+            {
+                while (iterator.MoveNext())
+                {
+                    yield return iterator.Current;
+                }
+            }
+        }
+
+        public IEnumerable<LightElementNode> FindByClass(string className)
+        {
+            return TraverseDepthFirst()
+                  .OfType<LightElementNode>()
+                  .Where(e => e.CssClasses.Contains(className));
+        }
+
+        public IEnumerable<LightElementNode> FindByTag(string tagName)
+        {
+            return TraverseDepthFirst()
+                  .OfType<LightElementNode>()
+                  .Where(e => e.TagName.Equals(tagName, StringComparison.OrdinalIgnoreCase));
+        }
+
+        public IEnumerable<LightTextNode> GetAllTextNodes()
+        {
+            return TraverseDepthFirst()
+                  .OfType<LightTextNode>();
+        }
+
         public override string OuterHTML
         {
             get
             {
                 StringBuilder sb = new StringBuilder();
                 sb.Append($"<{TagName}");
-
                 if (CssClasses.Count > 0)
                 {
                     sb.Append($" class=\"{string.Join(" ", CssClasses)}\"");
                 }
-
                 if (ClosingType == "self-closing")
                 {
                     sb.Append(" />");
@@ -62,7 +99,6 @@ namespace Composer
                     }
                     sb.Append($"</{TagName}>");
                 }
-
                 return sb.ToString();
             }
         }

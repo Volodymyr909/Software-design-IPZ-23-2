@@ -68,6 +68,37 @@ public class Program
         Console.WriteLine("\nПісля redo:");
         Console.WriteLine(div.OuterHTML);
 
+        Console.WriteLine("\n=== State Pattern Demo ===");
+
+        div.Activate();
+        p.Activate();
+
+        Console.WriteLine($"Div state: {div.GetCurrentStateDescription()}");
+        Console.WriteLine($"P state: {p.GetCurrentStateDescription()}");
+
+        p.AddCssClass("active");
+        Console.WriteLine($"P HTML після додавання класу: {p.OuterHTML}");
+
+        Console.WriteLine("\n--- Блокування елемента ---");
+        p.Lock();
+
+        p.AddCssClass("blocked");
+
+        Console.WriteLine("\n--- Приховування елемента ---");
+        span.Hide();
+        Console.WriteLine("HTML після приховування span:");
+        Console.WriteLine(div.OuterHTML);
+
+        Console.WriteLine("\n--- Відновлення елемента ---");
+        span.Restore();
+        Console.WriteLine("HTML після відновлення span:");
+        Console.WriteLine(div.OuterHTML);
+
+        Console.WriteLine("\n--- Позначення для видалення ---");
+        img.MarkForDeletion();
+        Console.WriteLine("HTML після позначення img для видалення:");
+        Console.WriteLine(div.OuterHTML);
+
         Console.WriteLine("\n=== Обхід в глибину ===");
         foreach (var node in div.TraverseDepthFirst())
         {

@@ -15,6 +15,13 @@ namespace Composer
         public List<string> CssClasses { get; }
         public List<LightNode> Children { get; }
 
+        private IElementState _currentState;
+        public IElementState CurrentState
+        {
+            get => _currentState;
+            private set => _currentState = value;
+        }
+
         public LightElementNode(string tagName, string displayType, string closingType)
         {
             TagName = tagName;
@@ -22,15 +29,64 @@ namespace Composer
             ClosingType = closingType;
             CssClasses = new List<string>();
             Children = new List<LightNode>();
+
+            _currentState = new CreatedState();
+        }
+
+        public void SetState(IElementState newState)
+        {
+            Console.WriteLine($"{TagName} changing state from {_currentState.GetStateDescription()} to {newState.GetStateDescription()}");
+            _currentState = newState;
+            _currentState.Handle(this);
+        }
+
+        public void Activate()
+        {
+            SetState(new ActiveState());
+        }
+
+        public void Lock()
+        {
+            SetState(new LockedState());
+        }
+
+        public void Hide()
+        {
+            SetState(new HiddenState());
+        }
+
+        public void MarkForDeletion()
+        {
+            SetState(new DeletedState());
+        }
+
+        public void Restore()
+        {
+            SetState(new ActiveState());
+        }
+
+        public string GetCurrentStateDescription()
+        {
+            return _currentState.GetStateDescription();
         }
 
         public void AddChild(LightNode child)
         {
+            if (!_currentState.CanAddChild())
+            {
+                Console.WriteLine($"Cannot add child to {TagName} - element is in {_currentState.GetStateDescription()} state");
+                return;
+            }
             Children.Add(child);
         }
 
         public void AddCssClass(string cssClass)
         {
+            if (!_currentState.CanModifyClasses())
+            {
+                Console.WriteLine($"Cannot modify CSS classes of {TagName} - element is in {_currentState.GetStateDescription()} state");
+                return;
+            }
             CssClasses.Add(cssClass);
         }
 
@@ -48,24 +104,44 @@ namespace Composer
 
         public void AddChildWithCommand(LightNode child, CommandInvoker invoker)
         {
+            if (!_currentState.CanAddChild())
+            {
+                Console.WriteLine($"Cannot add child to {TagName} - element is in {_currentState.GetStateDescription()} state");
+                return;
+            }
             var command = new AddChildCommand(this, child);
             invoker.ExecuteCommand(command);
         }
 
         public void RemoveChildWithCommand(LightNode child, CommandInvoker invoker)
         {
+            if (!_currentState.CanAddChild())
+            {
+                Console.WriteLine($"Cannot remove child from {TagName} - element is in {_currentState.GetStateDescription()} state");
+                return;
+            }
             var command = new RemoveChildCommand(this, child);
             invoker.ExecuteCommand(command);
         }
 
         public void AddCssClassWithCommand(string cssClass, CommandInvoker invoker)
         {
+            if (!_currentState.CanModifyClasses())
+            {
+                Console.WriteLine($"Cannot add CSS class to {TagName} - element is in {_currentState.GetStateDescription()} state");
+                return;
+            }
             var command = new AddCssClassCommand(this, cssClass);
             invoker.ExecuteCommand(command);
         }
 
         public void RemoveCssClassWithCommand(string cssClass, CommandInvoker invoker)
         {
+            if (!_currentState.CanModifyClasses())
+            {
+                Console.WriteLine($"Cannot remove CSS class from {TagName} - element is in {_currentState.GetStateDescription()} state");
+                return;
+            }
             var command = new RemoveCssClassCommand(this, cssClass);
             invoker.ExecuteCommand(command);
         }
@@ -116,12 +192,24 @@ namespace Composer
         {
             get
             {
+                if (_currentState is HiddenState || _currentState is DeletedState)
+                {
+                    return string.Empty;
+                }
+
                 StringBuilder sb = new StringBuilder();
                 sb.Append($"<{TagName}");
                 if (CssClasses.Count > 0)
                 {
                     sb.Append($" class=\"{string.Join(" ", CssClasses)}\"");
                 }
+
+                var displayStyle = _currentState.GetDisplayStyle();
+                if (!string.IsNullOrEmpty(displayStyle) && displayStyle != "initial")
+                {
+                    sb.Append($" style=\"display: {displayStyle}\"");
+                }
+
                 if (ClosingType == "self-closing")
                 {
                     sb.Append(" />");
@@ -143,6 +231,11 @@ namespace Composer
         {
             get
             {
+                if (_currentState is HiddenState || _currentState is DeletedState)
+                {
+                    return string.Empty;
+                }
+
                 StringBuilder sb = new StringBuilder();
                 foreach (var child in Children)
                 {

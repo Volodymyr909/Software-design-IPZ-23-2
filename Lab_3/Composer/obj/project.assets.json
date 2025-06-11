@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\notebook778\\Desktop\\Політєх 2 курс 2 семестр\\КПЗ\\Lab_3\\Lab_3\\Composer\\Composer.csproj",
+      "projectUniqueName": "C:\\Users\\notebook778\\Desktop\\Політєх 2 курс 2 семестр\\КПЗ\\Software design\\Lab_3\\Composer\\Composer.csproj",
       "projectName": "Composer",
-      "projectPath": "C:\\Users\\notebook778\\Desktop\\Політєх 2 курс 2 семестр\\КПЗ\\Lab_3\\Lab_3\\Composer\\Composer.csproj",
+      "projectPath": "C:\\Users\\notebook778\\Desktop\\Політєх 2 курс 2 семестр\\КПЗ\\Software design\\Lab_3\\Composer\\Composer.csproj",
       "packagesPath": "C:\\Users\\notebook778\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\notebook778\\Desktop\\Політєх 2 курс 2 семестр\\КПЗ\\Lab_3\\Lab_3\\Composer\\obj\\",
+      "outputPath": "C:\\Users\\notebook778\\Desktop\\Політєх 2 курс 2 семестр\\КПЗ\\Software design\\Lab_3\\Composer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,6 +33,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

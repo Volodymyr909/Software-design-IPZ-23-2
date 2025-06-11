@@ -16,7 +16,6 @@ namespace Composer
         }
 
         public override string OuterHTML => InnerHTML;
-
         public override string InnerHTML => Text;
     }
 }

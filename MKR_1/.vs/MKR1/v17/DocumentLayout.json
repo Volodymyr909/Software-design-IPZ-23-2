@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0421\u043F\u043E\u0434\u0435\u043D\u044E\u043A \u0412\u043B\u0430\u0434\u0438\u0441\u043B\u0430\u0432\\MKR1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32952D82-7A3E-4DBE-80C0-45D902309399}|MKR1.csproj|d:\\\u0441\u043F\u043E\u0434\u0435\u043D\u044E\u043A \u0432\u043B\u0430\u0434\u0438\u0441\u043B\u0430\u0432\\mkr1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32952D82-7A3E-4DBE-80C0-45D902309399}|MKR1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32952D82-7A3E-4DBE-80C0-45D902309399}|MKR1.csproj|d:\\\u0441\u043F\u043E\u0434\u0435\u043D\u044E\u043A \u0432\u043B\u0430\u0434\u0438\u0441\u043B\u0430\u0432\\mkr1\\lighttextnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32952D82-7A3E-4DBE-80C0-45D902309399}|MKR1.csproj|solutionrelative:lighttextnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32952D82-7A3E-4DBE-80C0-45D902309399}|MKR1.csproj|d:\\\u0441\u043F\u043E\u0434\u0435\u043D\u044E\u043A \u0432\u043B\u0430\u0434\u0438\u0441\u043B\u0430\u0432\\mkr1\\lightelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32952D82-7A3E-4DBE-80C0-45D902309399}|MKR1.csproj|solutionrelative:lightelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32952D82-7A3E-4DBE-80C0-45D902309399}|MKR1.csproj|d:\\\u0441\u043F\u043E\u0434\u0435\u043D\u044E\u043A \u0432\u043B\u0430\u0434\u0438\u0441\u043B\u0430\u0432\\mkr1\\breadthfirstiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32952D82-7A3E-4DBE-80C0-45D902309399}|MKR1.csproj|solutionrelative:breadthfirstiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32952D82-7A3E-4DBE-80C0-45D902309399}|MKR1.csproj|d:\\\u0441\u043F\u043E\u0434\u0435\u043D\u044E\u043A \u0432\u043B\u0430\u0434\u0438\u0441\u043B\u0430\u0432\\mkr1\\depthfirstiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32952D82-7A3E-4DBE-80C0-45D902309399}|MKR1.csproj|solutionrelative:depthfirstiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32952D82-7A3E-4DBE-80C0-45D902309399}|MKR1.csproj|d:\\\u0441\u043F\u043E\u0434\u0435\u043D\u044E\u043A \u0432\u043B\u0430\u0434\u0438\u0441\u043B\u0430\u0432\\mkr1\\ilightnodeiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32952D82-7A3E-4DBE-80C0-45D902309399}|MKR1.csproj|solutionrelative:ilightnodeiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32952D82-7A3E-4DBE-80C0-45D902309399}|MKR1.csproj|d:\\\u0441\u043F\u043E\u0434\u0435\u043D\u044E\u043A \u0432\u043B\u0430\u0434\u0438\u0441\u043B\u0430\u0432\\mkr1\\lightnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32952D82-7A3E-4DBE-80C0-45D902309399}|MKR1.csproj|solutionrelative:lightnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BreadthFirstIterator.cs",
+              "DocumentMoniker": "D:\\\u0421\u043F\u043E\u0434\u0435\u043D\u044E\u043A \u0412\u043B\u0430\u0434\u0438\u0441\u043B\u0430\u0432\\MKR1\\BreadthFirstIterator.cs",
+              "RelativeDocumentMoniker": "BreadthFirstIterator.cs",
+              "ToolTip": "D:\\\u0421\u043F\u043E\u0434\u0435\u043D\u044E\u043A \u0412\u043B\u0430\u0434\u0438\u0441\u043B\u0430\u0432\\MKR1\\BreadthFirstIterator.cs",
+              "RelativeToolTip": "BreadthFirstIterator.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwDcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T21:02:05.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DepthFirstIterator.cs",
+              "DocumentMoniker": "D:\\\u0421\u043F\u043E\u0434\u0435\u043D\u044E\u043A \u0412\u043B\u0430\u0434\u0438\u0441\u043B\u0430\u0432\\MKR1\\DepthFirstIterator.cs",
+              "RelativeDocumentMoniker": "DepthFirstIterator.cs",
+              "ToolTip": "D:\\\u0421\u043F\u043E\u0434\u0435\u043D\u044E\u043A \u0412\u043B\u0430\u0434\u0438\u0441\u043B\u0430\u0432\\MKR1\\DepthFirstIterator.cs",
+              "RelativeToolTip": "DepthFirstIterator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T21:01:33.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ILightNodeIterator.cs",
+              "DocumentMoniker": "D:\\\u0421\u043F\u043E\u0434\u0435\u043D\u044E\u043A \u0412\u043B\u0430\u0434\u0438\u0441\u043B\u0430\u0432\\MKR1\\ILightNodeIterator.cs",
+              "RelativeDocumentMoniker": "ILightNodeIterator.cs",
+              "ToolTip": "D:\\\u0421\u043F\u043E\u0434\u0435\u043D\u044E\u043A \u0412\u043B\u0430\u0434\u0438\u0441\u043B\u0430\u0432\\MKR1\\ILightNodeIterator.cs",
+              "RelativeToolTip": "ILightNodeIterator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T21:00:49.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LightTextNode.cs",
+              "DocumentMoniker": "D:\\\u0421\u043F\u043E\u0434\u0435\u043D\u044E\u043A \u0412\u043B\u0430\u0434\u0438\u0441\u043B\u0430\u0432\\MKR1\\LightTextNode.cs",
+              "RelativeDocumentMoniker": "LightTextNode.cs",
+              "ToolTip": "D:\\\u0421\u043F\u043E\u0434\u0435\u043D\u044E\u043A \u0412\u043B\u0430\u0434\u0438\u0441\u043B\u0430\u0432\\MKR1\\LightTextNode.cs",
+              "RelativeToolTip": "LightTextNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T20:45:56.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LightNode.cs",
+              "DocumentMoniker": "D:\\\u0421\u043F\u043E\u0434\u0435\u043D\u044E\u043A \u0412\u043B\u0430\u0434\u0438\u0441\u043B\u0430\u0432\\MKR1\\LightNode.cs",
+              "RelativeDocumentMoniker": "LightNode.cs",
+              "ToolTip": "D:\\\u0421\u043F\u043E\u0434\u0435\u043D\u044E\u043A \u0412\u043B\u0430\u0434\u0438\u0441\u043B\u0430\u0432\\MKR1\\LightNode.cs",
+              "RelativeToolTip": "LightNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T20:45:48.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LightElementNode.cs",
+              "DocumentMoniker": "D:\\\u0421\u043F\u043E\u0434\u0435\u043D\u044E\u043A \u0412\u043B\u0430\u0434\u0438\u0441\u043B\u0430\u0432\\MKR1\\LightElementNode.cs",
+              "RelativeDocumentMoniker": "LightElementNode.cs",
+              "ToolTip": "D:\\\u0421\u043F\u043E\u0434\u0435\u043D\u044E\u043A \u0412\u043B\u0430\u0434\u0438\u0441\u043B\u0430\u0432\\MKR1\\LightElementNode.cs",
+              "RelativeToolTip": "LightElementNode.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAADwvyMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T20:45:24.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0421\u043F\u043E\u0434\u0435\u043D\u044E\u043A \u0412\u043B\u0430\u0434\u0438\u0441\u043B\u0430\u0432\\MKR1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\\u0421\u043F\u043E\u0434\u0435\u043D\u044E\u043A \u0412\u043B\u0430\u0434\u0438\u0441\u043B\u0430\u0432\\MKR1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T20:44:19.042Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

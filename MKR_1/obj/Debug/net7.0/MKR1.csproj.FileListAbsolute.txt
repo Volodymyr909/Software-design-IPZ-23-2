@@ -1,0 +1,14 @@
+D:\Споденюк Владислав\MKR1\bin\Debug\net7.0\MKR1.exe
+D:\Споденюк Владислав\MKR1\bin\Debug\net7.0\MKR1.deps.json
+D:\Споденюк Владислав\MKR1\bin\Debug\net7.0\MKR1.runtimeconfig.json
+D:\Споденюк Владислав\MKR1\bin\Debug\net7.0\MKR1.dll
+D:\Споденюк Владислав\MKR1\bin\Debug\net7.0\MKR1.pdb
+D:\Споденюк Владислав\MKR1\obj\Debug\net7.0\MKR1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Споденюк Владислав\MKR1\obj\Debug\net7.0\MKR1.AssemblyInfoInputs.cache
+D:\Споденюк Владислав\MKR1\obj\Debug\net7.0\MKR1.AssemblyInfo.cs
+D:\Споденюк Владислав\MKR1\obj\Debug\net7.0\MKR1.csproj.CoreCompileInputs.cache
+D:\Споденюк Владислав\MKR1\obj\Debug\net7.0\MKR1.dll
+D:\Споденюк Владислав\MKR1\obj\Debug\net7.0\refint\MKR1.dll
+D:\Споденюк Владислав\MKR1\obj\Debug\net7.0\MKR1.pdb
+D:\Споденюк Владислав\MKR1\obj\Debug\net7.0\MKR1.genruntimeconfig.cache
+D:\Споденюк Владислав\MKR1\obj\Debug\net7.0\ref\MKR1.dll

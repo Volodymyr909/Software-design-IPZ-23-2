@@ -158,5 +158,34 @@ public class Program
 
         Console.WriteLine("\n--- Processing element removal ---");
         h1.ProcessRemoval();
+
+        VisitorPatternDemo.RunDemo();
+
+        Console.WriteLine("\n=== Демонстрація Visitor Pattern з існуючими елементами ===");
+
+        Console.WriteLine("\nАналіз статистики основного документу:");
+        var stats = new HtmlStatisticsVisitor();
+        div.Accept(stats);
+        stats.PrintStatistics();
+
+        Console.WriteLine("\nВалідація основного документу:");
+        var validator = new HtmlValidatorVisitor();
+        div.Accept(validator);
+        validator.PrintValidationResults();
+
+        Console.WriteLine("\nЕкспорт основного документу в XML:");
+        var xmlExporter = new XmlExportVisitor();
+        div.Accept(xmlExporter);
+        Console.WriteLine(xmlExporter.XmlResult);
+
+        Console.WriteLine("\n" + new string('=', 60));
+        Console.WriteLine("=== ЗАВЕРШЕННЯ ДЕМОНСТРАЦІЇ ===");
+        Console.WriteLine("Успішно продемонстровано всі 5 поведінкових шаблонів:");
+        Console.WriteLine("Iterator Pattern - для обходу елементів");
+        Console.WriteLine("Command Pattern - для виконання команд з undo/redo");
+        Console.WriteLine("State Pattern - для управління станами елементів");
+        Console.WriteLine("Template Method Pattern - для життєвого циклу елементів");
+        Console.WriteLine("Visitor Pattern - для обробки та аналізу елементів");
+        Console.WriteLine(new string('=', 60));
     }
 }

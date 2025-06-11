@@ -1,4 +1,5 @@
-﻿using System;
+﻿using MKR1;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -17,5 +18,9 @@ namespace Composer
 
         public override string OuterHTML => InnerHTML;
         public override string InnerHTML => Text;
+        public override void Accept(ILightNodeVisitor visitor)
+        {
+            visitor.Visit(this);
+        }
     }
 }

@@ -244,5 +244,14 @@ namespace Composer
                 return sb.ToString();
             }
         }
+        public override void Accept(ILightNodeVisitor visitor)
+        {
+            visitor.Visit(this);
+
+            foreach (var child in Children)
+            {
+                child.Accept(visitor);
+            }
+        }
     }
 }

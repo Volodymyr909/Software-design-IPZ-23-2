@@ -6,6 +6,9 @@ public class Program
 {
     public static void Main(string[] args)
     {
+        Console.WriteLine("=== Модульна контрольна робота №1 ===");
+        Console.WriteLine("Демонстрація поведінкових шаблонів проєктування\n");
+
         LightElementNode div = new LightElementNode("div", "block", "closing");
         div.AddCssClass("container");
         div.AddCssClass("main");
@@ -99,7 +102,8 @@ public class Program
         Console.WriteLine("HTML після позначення img для видалення:");
         Console.WriteLine(div.OuterHTML);
 
-        Console.WriteLine("\n=== Обхід в глибину ===");
+        Console.WriteLine("\n=== Iterator Pattern Demo ===");
+        Console.WriteLine("=== Обхід в глибину ===");
         foreach (var node in div.TraverseDepthFirst())
         {
             if (node is LightElementNode element)
@@ -136,5 +140,23 @@ public class Program
         {
             Console.WriteLine($"Текст: {textNodeItem.Text}");
         }
+
+        Console.WriteLine("\n" + new string('=', 60));
+        TemplateMethodDemo.RunDemo();
+
+        Console.WriteLine("\n=== Demonstrating Template Method with existing elements ===");
+        Console.WriteLine("Processing lifecycle for existing elements:");
+
+        Console.WriteLine("\n--- Processing div lifecycle ---");
+        div.ProcessLifecycle();
+
+        Console.WriteLine("\n--- Processing span lifecycle ---");
+        span.ProcessLifecycle();
+
+        Console.WriteLine("\n--- Processing img lifecycle ---");
+        img.ProcessLifecycle();
+
+        Console.WriteLine("\n--- Processing element removal ---");
+        h1.ProcessRemoval();
     }
 }

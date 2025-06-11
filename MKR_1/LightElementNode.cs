@@ -34,6 +34,42 @@ namespace Composer
             CssClasses.Add(cssClass);
         }
 
+        public void ExecuteCommand(ICommand command, CommandInvoker invoker = null)
+        {
+            if (invoker != null)
+            {
+                invoker.ExecuteCommand(command);
+            }
+            else
+            {
+                command.Execute();
+            }
+        }
+
+        public void AddChildWithCommand(LightNode child, CommandInvoker invoker)
+        {
+            var command = new AddChildCommand(this, child);
+            invoker.ExecuteCommand(command);
+        }
+
+        public void RemoveChildWithCommand(LightNode child, CommandInvoker invoker)
+        {
+            var command = new RemoveChildCommand(this, child);
+            invoker.ExecuteCommand(command);
+        }
+
+        public void AddCssClassWithCommand(string cssClass, CommandInvoker invoker)
+        {
+            var command = new AddCssClassCommand(this, cssClass);
+            invoker.ExecuteCommand(command);
+        }
+
+        public void RemoveCssClassWithCommand(string cssClass, CommandInvoker invoker)
+        {
+            var command = new RemoveCssClassCommand(this, cssClass);
+            invoker.ExecuteCommand(command);
+        }
+
         public IEnumerable<LightNode> TraverseDepthFirst()
         {
             using (var iterator = new DepthFirstIterator(this))

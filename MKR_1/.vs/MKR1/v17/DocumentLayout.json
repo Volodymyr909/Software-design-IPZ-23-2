@@ -1,34 +1,62 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\\u0421\u043F\u043E\u0434\u0435\u043D\u044E\u043A \u0412\u043B\u0430\u0434\u0438\u0441\u043B\u0430\u0432\\MKR1\\",
+  "WorkspaceRootPath": "C:\\Users\\notebook778\\Desktop\\\u041F\u043E\u043B\u0456\u0442\u0454\u0445 2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u0417\\Software design\\MKR_1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{32952D82-7A3E-4DBE-80C0-45D902309399}|MKR1.csproj|d:\\\u0441\u043F\u043E\u0434\u0435\u043D\u044E\u043A \u0432\u043B\u0430\u0434\u0438\u0441\u043B\u0430\u0432\\mkr1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{32952D82-7A3E-4DBE-80C0-45D902309399}|MKR1.csproj|c:\\users\\notebook778\\desktop\\\u043F\u043E\u043B\u0456\u0442\u0454\u0445 2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043F\u0437\\software design\\mkr_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32952D82-7A3E-4DBE-80C0-45D902309399}|MKR1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32952D82-7A3E-4DBE-80C0-45D902309399}|MKR1.csproj|d:\\\u0441\u043F\u043E\u0434\u0435\u043D\u044E\u043A \u0432\u043B\u0430\u0434\u0438\u0441\u043B\u0430\u0432\\mkr1\\lighttextnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32952D82-7A3E-4DBE-80C0-45D902309399}|MKR1.csproj|solutionrelative:lighttextnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32952D82-7A3E-4DBE-80C0-45D902309399}|MKR1.csproj|d:\\\u0441\u043F\u043E\u0434\u0435\u043D\u044E\u043A \u0432\u043B\u0430\u0434\u0438\u0441\u043B\u0430\u0432\\mkr1\\lightelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{32952D82-7A3E-4DBE-80C0-45D902309399}|MKR1.csproj|c:\\users\\notebook778\\desktop\\\u043F\u043E\u043B\u0456\u0442\u0454\u0445 2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043F\u0437\\software design\\mkr_1\\lightelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32952D82-7A3E-4DBE-80C0-45D902309399}|MKR1.csproj|solutionrelative:lightelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32952D82-7A3E-4DBE-80C0-45D902309399}|MKR1.csproj|d:\\\u0441\u043F\u043E\u0434\u0435\u043D\u044E\u043A \u0432\u043B\u0430\u0434\u0438\u0441\u043B\u0430\u0432\\mkr1\\breadthfirstiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{32952D82-7A3E-4DBE-80C0-45D902309399}|MKR1.csproj|c:\\users\\notebook778\\desktop\\\u043F\u043E\u043B\u0456\u0442\u0454\u0445 2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043F\u0437\\software design\\mkr_1\\lighttextnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32952D82-7A3E-4DBE-80C0-45D902309399}|MKR1.csproj|solutionrelative:lighttextnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32952D82-7A3E-4DBE-80C0-45D902309399}|MKR1.csproj|c:\\users\\notebook778\\desktop\\\u043F\u043E\u043B\u0456\u0442\u0454\u0445 2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043F\u0437\\software design\\mkr_1\\breadthfirstiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32952D82-7A3E-4DBE-80C0-45D902309399}|MKR1.csproj|solutionrelative:breadthfirstiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32952D82-7A3E-4DBE-80C0-45D902309399}|MKR1.csproj|d:\\\u0441\u043F\u043E\u0434\u0435\u043D\u044E\u043A \u0432\u043B\u0430\u0434\u0438\u0441\u043B\u0430\u0432\\mkr1\\depthfirstiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{32952D82-7A3E-4DBE-80C0-45D902309399}|MKR1.csproj|c:\\users\\notebook778\\desktop\\\u043F\u043E\u043B\u0456\u0442\u0454\u0445 2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043F\u0437\\software design\\mkr_1\\depthfirstiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32952D82-7A3E-4DBE-80C0-45D902309399}|MKR1.csproj|solutionrelative:depthfirstiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32952D82-7A3E-4DBE-80C0-45D902309399}|MKR1.csproj|d:\\\u0441\u043F\u043E\u0434\u0435\u043D\u044E\u043A \u0432\u043B\u0430\u0434\u0438\u0441\u043B\u0430\u0432\\mkr1\\ilightnodeiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{32952D82-7A3E-4DBE-80C0-45D902309399}|MKR1.csproj|c:\\users\\notebook778\\desktop\\\u043F\u043E\u043B\u0456\u0442\u0454\u0445 2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043F\u0437\\software design\\mkr_1\\commandinvoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32952D82-7A3E-4DBE-80C0-45D902309399}|MKR1.csproj|solutionrelative:commandinvoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32952D82-7A3E-4DBE-80C0-45D902309399}|MKR1.csproj|c:\\users\\notebook778\\desktop\\\u043F\u043E\u043B\u0456\u0442\u0454\u0445 2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043F\u0437\\software design\\mkr_1\\ilightnodeiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32952D82-7A3E-4DBE-80C0-45D902309399}|MKR1.csproj|solutionrelative:ilightnodeiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32952D82-7A3E-4DBE-80C0-45D902309399}|MKR1.csproj|d:\\\u0441\u043F\u043E\u0434\u0435\u043D\u044E\u043A \u0432\u043B\u0430\u0434\u0438\u0441\u043B\u0430\u0432\\mkr1\\lightnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{32952D82-7A3E-4DBE-80C0-45D902309399}|MKR1.csproj|c:\\users\\notebook778\\desktop\\\u043F\u043E\u043B\u0456\u0442\u0454\u0445 2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043F\u0437\\software design\\mkr_1\\lightnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32952D82-7A3E-4DBE-80C0-45D902309399}|MKR1.csproj|solutionrelative:lightnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32952D82-7A3E-4DBE-80C0-45D902309399}|MKR1.csproj|c:\\users\\notebook778\\desktop\\\u043F\u043E\u043B\u0456\u0442\u0454\u0445 2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043F\u0437\\software design\\mkr_1\\changetextcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32952D82-7A3E-4DBE-80C0-45D902309399}|MKR1.csproj|solutionrelative:changetextcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32952D82-7A3E-4DBE-80C0-45D902309399}|MKR1.csproj|c:\\users\\notebook778\\desktop\\\u043F\u043E\u043B\u0456\u0442\u0454\u0445 2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043F\u0437\\software design\\mkr_1\\removecssclasscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32952D82-7A3E-4DBE-80C0-45D902309399}|MKR1.csproj|solutionrelative:removecssclasscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32952D82-7A3E-4DBE-80C0-45D902309399}|MKR1.csproj|c:\\users\\notebook778\\desktop\\\u043F\u043E\u043B\u0456\u0442\u0454\u0445 2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043F\u0437\\software design\\mkr_1\\addcssclasscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32952D82-7A3E-4DBE-80C0-45D902309399}|MKR1.csproj|solutionrelative:addcssclasscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32952D82-7A3E-4DBE-80C0-45D902309399}|MKR1.csproj|c:\\users\\notebook778\\desktop\\\u043F\u043E\u043B\u0456\u0442\u0454\u0445 2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043F\u0437\\software design\\mkr_1\\removechildcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32952D82-7A3E-4DBE-80C0-45D902309399}|MKR1.csproj|solutionrelative:removechildcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32952D82-7A3E-4DBE-80C0-45D902309399}|MKR1.csproj|c:\\users\\notebook778\\desktop\\\u043F\u043E\u043B\u0456\u0442\u0454\u0445 2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043F\u0437\\software design\\mkr_1\\addchildcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32952D82-7A3E-4DBE-80C0-45D902309399}|MKR1.csproj|solutionrelative:addchildcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32952D82-7A3E-4DBE-80C0-45D902309399}|MKR1.csproj|c:\\users\\notebook778\\desktop\\\u043F\u043E\u043B\u0456\u0442\u0454\u0445 2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043F\u0437\\software design\\mkr_1\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32952D82-7A3E-4DBE-80C0-45D902309399}|MKR1.csproj|solutionrelative:icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,98 +66,204 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 13,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:20:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:22:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BreadthFirstIterator.cs",
-              "DocumentMoniker": "D:\\\u0421\u043F\u043E\u0434\u0435\u043D\u044E\u043A \u0412\u043B\u0430\u0434\u0438\u0441\u043B\u0430\u0432\\MKR1\\BreadthFirstIterator.cs",
-              "RelativeDocumentMoniker": "BreadthFirstIterator.cs",
-              "ToolTip": "D:\\\u0421\u043F\u043E\u0434\u0435\u043D\u044E\u043A \u0412\u043B\u0430\u0434\u0438\u0441\u043B\u0430\u0432\\MKR1\\BreadthFirstIterator.cs",
-              "RelativeToolTip": "BreadthFirstIterator.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAkwDcAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "CommandInvoker.cs",
+              "DocumentMoniker": "C:\\Users\\notebook778\\Desktop\\\u041F\u043E\u043B\u0456\u0442\u0454\u0445 2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u0417\\Software design\\MKR_1\\CommandInvoker.cs",
+              "RelativeDocumentMoniker": "CommandInvoker.cs",
+              "ToolTip": "C:\\Users\\notebook778\\Desktop\\\u041F\u043E\u043B\u0456\u0442\u0454\u0445 2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u0417\\Software design\\MKR_1\\CommandInvoker.cs",
+              "RelativeToolTip": "CommandInvoker.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwDwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T21:02:05.272Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-10T21:36:25.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LightElementNode.cs",
+              "DocumentMoniker": "C:\\Users\\notebook778\\Desktop\\\u041F\u043E\u043B\u0456\u0442\u0454\u0445 2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u0417\\Software design\\MKR_1\\LightElementNode.cs",
+              "RelativeDocumentMoniker": "LightElementNode.cs",
+              "ToolTip": "C:\\Users\\notebook778\\Desktop\\\u041F\u043E\u043B\u0456\u0442\u0454\u0445 2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u0417\\Software design\\MKR_1\\LightElementNode.cs",
+              "RelativeToolTip": "LightElementNode.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAswCwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T20:45:24.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ILightNodeIterator.cs",
+              "DocumentMoniker": "C:\\Users\\notebook778\\Desktop\\\u041F\u043E\u043B\u0456\u0442\u0454\u0445 2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u0417\\Software design\\MKR_1\\ILightNodeIterator.cs",
+              "RelativeDocumentMoniker": "ILightNodeIterator.cs",
+              "ToolTip": "C:\\Users\\notebook778\\Desktop\\\u041F\u043E\u043B\u0456\u0442\u0454\u0445 2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u0417\\Software design\\MKR_1\\ILightNodeIterator.cs",
+              "RelativeToolTip": "ILightNodeIterator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T21:00:49.404Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "DepthFirstIterator.cs",
-              "DocumentMoniker": "D:\\\u0421\u043F\u043E\u0434\u0435\u043D\u044E\u043A \u0412\u043B\u0430\u0434\u0438\u0441\u043B\u0430\u0432\\MKR1\\DepthFirstIterator.cs",
+              "DocumentMoniker": "C:\\Users\\notebook778\\Desktop\\\u041F\u043E\u043B\u0456\u0442\u0454\u0445 2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u0417\\Software design\\MKR_1\\DepthFirstIterator.cs",
               "RelativeDocumentMoniker": "DepthFirstIterator.cs",
-              "ToolTip": "D:\\\u0421\u043F\u043E\u0434\u0435\u043D\u044E\u043A \u0412\u043B\u0430\u0434\u0438\u0441\u043B\u0430\u0432\\MKR1\\DepthFirstIterator.cs",
+              "ToolTip": "C:\\Users\\notebook778\\Desktop\\\u041F\u043E\u043B\u0456\u0442\u0454\u0445 2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u0417\\Software design\\MKR_1\\DepthFirstIterator.cs",
               "RelativeToolTip": "DepthFirstIterator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAQwDcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T21:01:33.699Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-10T21:01:33.699Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ILightNodeIterator.cs",
-              "DocumentMoniker": "D:\\\u0421\u043F\u043E\u0434\u0435\u043D\u044E\u043A \u0412\u043B\u0430\u0434\u0438\u0441\u043B\u0430\u0432\\MKR1\\ILightNodeIterator.cs",
-              "RelativeDocumentMoniker": "ILightNodeIterator.cs",
-              "ToolTip": "D:\\\u0421\u043F\u043E\u0434\u0435\u043D\u044E\u043A \u0412\u043B\u0430\u0434\u0438\u0441\u043B\u0430\u0432\\MKR1\\ILightNodeIterator.cs",
-              "RelativeToolTip": "ILightNodeIterator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "BreadthFirstIterator.cs",
+              "DocumentMoniker": "C:\\Users\\notebook778\\Desktop\\\u041F\u043E\u043B\u0456\u0442\u0454\u0445 2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u0417\\Software design\\MKR_1\\BreadthFirstIterator.cs",
+              "RelativeDocumentMoniker": "BreadthFirstIterator.cs",
+              "ToolTip": "C:\\Users\\notebook778\\Desktop\\\u041F\u043E\u043B\u0456\u0442\u0454\u0445 2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u0417\\Software design\\MKR_1\\BreadthFirstIterator.cs",
+              "RelativeToolTip": "BreadthFirstIterator.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwDcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T21:00:49.404Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LightTextNode.cs",
-              "DocumentMoniker": "D:\\\u0421\u043F\u043E\u0434\u0435\u043D\u044E\u043A \u0412\u043B\u0430\u0434\u0438\u0441\u043B\u0430\u0432\\MKR1\\LightTextNode.cs",
-              "RelativeDocumentMoniker": "LightTextNode.cs",
-              "ToolTip": "D:\\\u0421\u043F\u043E\u0434\u0435\u043D\u044E\u043A \u0412\u043B\u0430\u0434\u0438\u0441\u043B\u0430\u0432\\MKR1\\LightTextNode.cs",
-              "RelativeToolTip": "LightTextNode.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T20:45:56.16Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LightNode.cs",
-              "DocumentMoniker": "D:\\\u0421\u043F\u043E\u0434\u0435\u043D\u044E\u043A \u0412\u043B\u0430\u0434\u0438\u0441\u043B\u0430\u0432\\MKR1\\LightNode.cs",
-              "RelativeDocumentMoniker": "LightNode.cs",
-              "ToolTip": "D:\\\u0421\u043F\u043E\u0434\u0435\u043D\u044E\u043A \u0412\u043B\u0430\u0434\u0438\u0441\u043B\u0430\u0432\\MKR1\\LightNode.cs",
-              "RelativeToolTip": "LightNode.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T20:45:48.244Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-10T21:02:05.272Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "LightElementNode.cs",
-              "DocumentMoniker": "D:\\\u0421\u043F\u043E\u0434\u0435\u043D\u044E\u043A \u0412\u043B\u0430\u0434\u0438\u0441\u043B\u0430\u0432\\MKR1\\LightElementNode.cs",
-              "RelativeDocumentMoniker": "LightElementNode.cs",
-              "ToolTip": "D:\\\u0421\u043F\u043E\u0434\u0435\u043D\u044E\u043A \u0412\u043B\u0430\u0434\u0438\u0441\u043B\u0430\u0432\\MKR1\\LightElementNode.cs",
-              "RelativeToolTip": "LightElementNode.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAADwvyMAAAAAAAAAAAAAAA==",
+              "Title": "LightTextNode.cs",
+              "DocumentMoniker": "C:\\Users\\notebook778\\Desktop\\\u041F\u043E\u043B\u0456\u0442\u0454\u0445 2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u0417\\Software design\\MKR_1\\LightTextNode.cs",
+              "RelativeDocumentMoniker": "LightTextNode.cs",
+              "ToolTip": "C:\\Users\\notebook778\\Desktop\\\u041F\u043E\u043B\u0456\u0442\u0454\u0445 2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u0417\\Software design\\MKR_1\\LightTextNode.cs",
+              "RelativeToolTip": "LightTextNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T20:45:24.427Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-10T20:45:56.16Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\\u0421\u043F\u043E\u0434\u0435\u043D\u044E\u043A \u0412\u043B\u0430\u0434\u0438\u0441\u043B\u0430\u0432\\MKR1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\notebook778\\Desktop\\\u041F\u043E\u043B\u0456\u0442\u0454\u0445 2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u0417\\Software design\\MKR_1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\\u0421\u043F\u043E\u0434\u0435\u043D\u044E\u043A \u0412\u043B\u0430\u0434\u0438\u0441\u043B\u0430\u0432\\MKR1\\Program.cs",
+              "ToolTip": "C:\\Users\\notebook778\\Desktop\\\u041F\u043E\u043B\u0456\u0442\u0454\u0445 2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u0417\\Software design\\MKR_1\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAF4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-10T20:44:19.042Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LightNode.cs",
+              "DocumentMoniker": "C:\\Users\\notebook778\\Desktop\\\u041F\u043E\u043B\u0456\u0442\u0454\u0445 2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u0417\\Software design\\MKR_1\\LightNode.cs",
+              "RelativeDocumentMoniker": "LightNode.cs",
+              "ToolTip": "C:\\Users\\notebook778\\Desktop\\\u041F\u043E\u043B\u0456\u0442\u0454\u0445 2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u0417\\Software design\\MKR_1\\LightNode.cs",
+              "RelativeToolTip": "LightNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T20:45:48.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ChangeTextCommand.cs",
+              "DocumentMoniker": "C:\\Users\\notebook778\\Desktop\\\u041F\u043E\u043B\u0456\u0442\u0454\u0445 2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u0417\\Software design\\MKR_1\\ChangeTextCommand.cs",
+              "RelativeDocumentMoniker": "ChangeTextCommand.cs",
+              "ToolTip": "C:\\Users\\notebook778\\Desktop\\\u041F\u043E\u043B\u0456\u0442\u0454\u0445 2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u0417\\Software design\\MKR_1\\ChangeTextCommand.cs",
+              "RelativeToolTip": "ChangeTextCommand.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T21:35:41.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RemoveCssClassCommand.cs",
+              "DocumentMoniker": "C:\\Users\\notebook778\\Desktop\\\u041F\u043E\u043B\u0456\u0442\u0454\u0445 2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u0417\\Software design\\MKR_1\\RemoveCssClassCommand.cs",
+              "RelativeDocumentMoniker": "RemoveCssClassCommand.cs",
+              "ToolTip": "C:\\Users\\notebook778\\Desktop\\\u041F\u043E\u043B\u0456\u0442\u0454\u0445 2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u0417\\Software design\\MKR_1\\RemoveCssClassCommand.cs",
+              "RelativeToolTip": "RemoveCssClassCommand.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAYwCIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T21:35:15.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddCssClassCommand.cs",
+              "DocumentMoniker": "C:\\Users\\notebook778\\Desktop\\\u041F\u043E\u043B\u0456\u0442\u0454\u0445 2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u0417\\Software design\\MKR_1\\AddCssClassCommand.cs",
+              "RelativeDocumentMoniker": "AddCssClassCommand.cs",
+              "ToolTip": "C:\\Users\\notebook778\\Desktop\\\u041F\u043E\u043B\u0456\u0442\u0454\u0445 2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u0417\\Software design\\MKR_1\\AddCssClassCommand.cs",
+              "RelativeToolTip": "AddCssClassCommand.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAYwCIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T21:34:47.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RemoveChildCommand.cs",
+              "DocumentMoniker": "C:\\Users\\notebook778\\Desktop\\\u041F\u043E\u043B\u0456\u0442\u0454\u0445 2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u0417\\Software design\\MKR_1\\RemoveChildCommand.cs",
+              "RelativeDocumentMoniker": "RemoveChildCommand.cs",
+              "ToolTip": "C:\\Users\\notebook778\\Desktop\\\u041F\u043E\u043B\u0456\u0442\u0454\u0445 2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u0417\\Software design\\MKR_1\\RemoveChildCommand.cs",
+              "RelativeToolTip": "RemoveChildCommand.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T21:34:19.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddChildCommand.cs",
+              "DocumentMoniker": "C:\\Users\\notebook778\\Desktop\\\u041F\u043E\u043B\u0456\u0442\u0454\u0445 2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u0417\\Software design\\MKR_1\\AddChildCommand.cs",
+              "RelativeDocumentMoniker": "AddChildCommand.cs",
+              "ToolTip": "C:\\Users\\notebook778\\Desktop\\\u041F\u043E\u043B\u0456\u0442\u0454\u0445 2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u0417\\Software design\\MKR_1\\AddChildCommand.cs",
+              "RelativeToolTip": "AddChildCommand.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T21:33:45.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "C:\\Users\\notebook778\\Desktop\\\u041F\u043E\u043B\u0456\u0442\u0454\u0445 2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u0417\\Software design\\MKR_1\\ICommand.cs",
+              "RelativeDocumentMoniker": "ICommand.cs",
+              "ToolTip": "C:\\Users\\notebook778\\Desktop\\\u041F\u043E\u043B\u0456\u0442\u0454\u0445 2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u0417\\Software design\\MKR_1\\ICommand.cs",
+              "RelativeToolTip": "ICommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T21:20:28.469Z"
             }
           ]
         }

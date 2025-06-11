@@ -1,4 +1,5 @@
 ﻿using Composer;
+using MKR1;
 using System;
 
 public class Program
@@ -33,6 +34,39 @@ public class Program
         Console.WriteLine(div.OuterHTML);
         Console.WriteLine("\nInnerHTML of div:");
         Console.WriteLine(div.InnerHTML);
+
+        Console.WriteLine("\n=== Command Pattern Demo ===");
+        CommandInvoker invoker = new CommandInvoker();
+
+        LightElementNode h1 = new LightElementNode("h1", "block", "closing");
+
+        div.AddChildWithCommand(h1, invoker);
+
+        h1.AddCssClassWithCommand("title", invoker);
+        h1.AddCssClassWithCommand("main-title", invoker);
+
+        LightTextNode titleText = new LightTextNode("Main Title");
+        h1.AddChildWithCommand(titleText, invoker);
+
+        Console.WriteLine("\nПісля виконання команд:");
+        Console.WriteLine(div.OuterHTML);
+
+        invoker.ShowHistory();
+
+        Console.WriteLine("\n=== Undo операції ===");
+        invoker.Undo();
+        invoker.Undo();
+        invoker.Undo();
+
+        Console.WriteLine("\nПісля undo:");
+        Console.WriteLine(div.OuterHTML);
+
+        Console.WriteLine("\n=== Redo операції ===");
+        invoker.Redo();
+        invoker.Redo();
+
+        Console.WriteLine("\nПісля redo:");
+        Console.WriteLine(div.OuterHTML);
 
         Console.WriteLine("\n=== Обхід в глибину ===");
         foreach (var node in div.TraverseDepthFirst())

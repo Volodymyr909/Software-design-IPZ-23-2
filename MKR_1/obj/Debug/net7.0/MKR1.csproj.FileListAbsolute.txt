@@ -26,6 +26,20 @@ D:\Споденюк Володимир\MKР1\obj\Debug\net7.0\refint\MKR1.dll
 D:\Споденюк Володимир\MKР1\obj\Debug\net7.0\MKR1.pdb
 D:\Споденюк Володимир\MKР1\obj\Debug\net7.0\MKR1.genruntimeconfig.cache
 D:\Споденюк Володимир\MKР1\obj\Debug\net7.0\ref\MKR1.dll
+D:\Споденюк Володимир\MKР1 (Відвідувач)\bin\Debug\net7.0\MKR1.exe
+D:\Споденюк Володимир\MKР1 (Відвідувач)\bin\Debug\net7.0\MKR1.deps.json
+D:\Споденюк Володимир\MKР1 (Відвідувач)\bin\Debug\net7.0\MKR1.runtimeconfig.json
+D:\Споденюк Володимир\MKР1 (Відвідувач)\bin\Debug\net7.0\MKR1.dll
+D:\Споденюк Володимир\MKР1 (Відвідувач)\bin\Debug\net7.0\MKR1.pdb
+D:\Споденюк Володимир\MKР1 (Відвідувач)\obj\Debug\net7.0\MKR1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Споденюк Володимир\MKР1 (Відвідувач)\obj\Debug\net7.0\MKR1.AssemblyInfoInputs.cache
+D:\Споденюк Володимир\MKР1 (Відвідувач)\obj\Debug\net7.0\MKR1.AssemblyInfo.cs
+D:\Споденюк Володимир\MKР1 (Відвідувач)\obj\Debug\net7.0\MKR1.csproj.CoreCompileInputs.cache
+D:\Споденюк Володимир\MKР1 (Відвідувач)\obj\Debug\net7.0\MKR1.dll
+D:\Споденюк Володимир\MKР1 (Відвідувач)\obj\Debug\net7.0\refint\MKR1.dll
+D:\Споденюк Володимир\MKР1 (Відвідувач)\obj\Debug\net7.0\MKR1.pdb
+D:\Споденюк Володимир\MKР1 (Відвідувач)\obj\Debug\net7.0\MKR1.genruntimeconfig.cache
+D:\Споденюк Володимир\MKР1 (Відвідувач)\obj\Debug\net7.0\ref\MKR1.dll
 C:\Users\notebook778\Desktop\Політєх 2 курс 2 семестр\КПЗ\Software design\MKR_1\bin\Debug\net7.0\MKR1.exe
 C:\Users\notebook778\Desktop\Політєх 2 курс 2 семестр\КПЗ\Software design\MKR_1\bin\Debug\net7.0\MKR1.deps.json
 C:\Users\notebook778\Desktop\Політєх 2 курс 2 семестр\КПЗ\Software design\MKR_1\bin\Debug\net7.0\MKR1.runtimeconfig.json

@@ -15,7 +15,7 @@ namespace MKR1
         {
             command.Execute();
             _undoStack.Push(command);
-            _redoStack.Clear(); // Очищаємо redo після нової команди
+            _redoStack.Clear();
             Console.WriteLine($"Executed: {command.Description}");
         }
 
